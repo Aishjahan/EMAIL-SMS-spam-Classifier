@@ -14,7 +14,7 @@ This project is a **Spam Classification** app built with **Streamlit** that clas
 ## Overview
 The app is designed to help users identify spam messages using an ML model trained on SMS and email message data. Messages are preprocessed, vectorized, and classified into "Spam" or "Not Spam."
 
-![App Screenshot](link-to-screenshot.png)
+![App Screenshot](Screenshot 2024-10-31 180937.png)
 
 ## Features
 - Real-time classification of SMS and email messages
